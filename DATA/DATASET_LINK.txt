@@ -1,0 +1,2 @@
+kaggle install dataset name as NIFTY50_all.csv 
+link :- https://www.kaggle.com/datasets/rohanrao/nifty50-stock-market-data
